@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tajaebromf
 - 👀 I’m interested in Software Devloping
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I love working with Python and C++
+- 📫 How to reach me http://www.linkedin.com/in/tajae-bromfield
 
 <!---
 tajaebromf/tajaebromf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
