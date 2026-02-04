@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tajaebromf
 - 👀 I’m interested in Software Devloping
-- 🌱 I love working with Python and C++
+- 🌱 I love working with Python, C++, Java and LLMs
 - 📫 How to reach me http://www.linkedin.com/in/tajae-bromfield
 
 <!---
