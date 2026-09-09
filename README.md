@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Devloping
 - 🌱 I love working with Python, C++, Java and LLMs
 - 📫 How to reach me http://www.linkedin.com/in/tajae-bromfield
-- tajaebromf.github.io
+- [tajaebromf.github.io](https://tajaebromf.github.io/)
 
 <!---
 tajaebromf/tajaebromf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
